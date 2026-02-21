@@ -15,12 +15,6 @@
 - [Spawned Shelter](https://github.com/unbalancedparentheses/spawnedshelter). Erlang & Elixir learning path
 - [Practical Cryptography & Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers). ZK proofs, FHE, consensus
 
-## Tools
-
-- [Readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks
-- [DNA](https://github.com/unbalancedparentheses/DNA). Genetic health analysis pipeline
-- [Concrete](https://github.com/unbalancedparentheses/concrete2). Systems programming language with semantics proven sound in Lean
-
 ## Built at LambdaClass
 
 - [ethrex](https://github.com/lambdaclass/ethrex). Ethereum execution client in Rust, L1 and L2
@@ -28,17 +22,12 @@
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm). Rust implementation of the Cairo VM
 - [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
-- [lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path). Hacking learning path handbook
-- [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
-- [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
 
 ## Writing
 
 - [Friction as Luxury: What We Lose When AI Gives Us What We Want](https://federicocarrone.com/articles/friction-as-luxury/)
 - [Is Consciousness a Network Effect?](https://federicocarrone.com/articles/consciousness-as-network-effect/)
 - [Transforming the Future with ZK Proofs, FHE and New Distributed Systems](https://federicocarrone.com/articles/transforming-the-future-with-zero-knowledge-proofs-fully-homomorphic-encryption-and-new-distributed-systems-algorithms/)
-- [The Concrete Programming Language](https://federicocarrone.com/series/concrete/the-concrete-programming-language-systems-programming-for-formal-reasoning/)
-- [The New Financial Backend of the World](https://federicocarrone.com/series/ethereum/the-new-financial-backend-of-the-world/)
 
 ## Connect
 
