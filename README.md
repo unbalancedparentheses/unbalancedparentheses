@@ -2,18 +2,7 @@
 
 **Buenos Aires** | Founder of [Ergodic Group](https://federicocarrone.com) | Creator of [LambdaClass](https://lambdaclass.com)
 
-[Ergodic Group](https://federicocarrone.com) builds companies in distributed systems, cryptography, AI, gaming, and real assets. [LambdaClass](https://lambdaclass.com) focuses on protocol engineering, systems programming, and formal verification — building core Ethereum infrastructure, ZK provers, and developer tools.
-
-## "For Hackers" Book Series
-
-- [Data Science in Julia for Hackers](https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers). Open book on applied data science
-- [Cryptography in Rust for Hackers](https://github.com/unbalancedparentheses/cryptography_in_rust_for_hackers). Hands-on crypto implementations
-- [Distributed Consensus in Rust for Hackers](https://github.com/unbalancedparentheses/distributed_consensus_in_rust_for_hackers). Consensus protocols from scratch
-
-## Learning Paths
-
-- [Spawned Shelter](https://github.com/unbalancedparentheses/spawnedshelter). Erlang & Elixir learning path
-- [Practical Cryptography & Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers). ZK proofs, FHE, consensus
+[Ergodic Group](https://federicocarrone.com) builds companies at the intersection of distributed systems, cryptography, and AI. [LambdaClass](https://lambdaclass.com) does the engineering: Ethereum clients, ZK provers, and developer tools.
 
 ## Built at LambdaClass
 
@@ -24,6 +13,14 @@
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 - [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
+
+## Books & Learning Paths
+
+- [Data Science in Julia for Hackers](https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers). Open book on applied data science
+- [Cryptography in Rust for Hackers](https://github.com/unbalancedparentheses/cryptography_in_rust_for_hackers). Hands-on crypto implementations
+- [Distributed Consensus in Rust for Hackers](https://github.com/unbalancedparentheses/distributed_consensus_in_rust_for_hackers). Consensus protocols from scratch
+- [Spawned Shelter](https://github.com/unbalancedparentheses/spawnedshelter). Erlang & Elixir learning path
+- [Practical Cryptography & Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers). ZK proofs, FHE, consensus
 
 ## Writing
 
