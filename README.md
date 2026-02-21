@@ -22,6 +22,8 @@
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm). Rust implementation of the Cairo VM
 - [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
+- [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
+- [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
 
 ## Writing
 
