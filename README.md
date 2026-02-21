@@ -28,6 +28,18 @@
 - [Is Consciousness a Network Effect?](https://federicocarrone.com/articles/consciousness-as-network-effect/)
 - [Transforming the Future with ZK Proofs, FHE and New Distributed Systems](https://federicocarrone.com/articles/transforming-the-future-with-zero-knowledge-proofs-fully-homomorphic-encryption-and-new-distributed-systems-algorithms/)
 
+## Curated Learning Resources
+
+- [learning_systems_and_security](https://github.com/unbalancedparentheses/learning_systems_and_security). Assembly, reverse engineering, distributed systems, compilers, cryptography, mathematics
+- [learning_economics](https://github.com/unbalancedparentheses/learning_economics). Papers and books on monetary theory, volatility, ergodicity economics, complexity
+- [learning_fat_tails](https://github.com/unbalancedparentheses/learning_fat_tails). Fat-tailed distributions, kurtosis, and why Gaussian models fail
+- [learning_nutrition_and_health](https://github.com/unbalancedparentheses/learning_nutrition_and_health). Peer-reviewed papers on fasting, supplements, and metabolic health
+- [learning_ergodicity_economics](https://github.com/unbalancedparentheses/learning_ergodicity_economics). Ergodicity Economics lecture notes by Ole Peters
+- [learning_data_science](https://github.com/unbalancedparentheses/learning_data_science). Data science etudes and statistical explorations
+- [the_bayes_way](https://github.com/unbalancedparentheses/the_bayes_way). Bayesian statistics and probabilistic programming
+- [saas_guidelines](https://github.com/unbalancedparentheses/saas_guidelines). Guide for building production-ready SaaS with Elixir/Phoenix and React/TS
+- [not_a_monad_tutorial](https://github.com/unbalancedparentheses/not_a_monad_tutorial). Interviews and reviews about programming languages, OSes, and libraries
+
 ## Connect
 
 [Twitter](https://twitter.com/federicocarrone) · [Blog](https://federicocarrone.com) · [Email](mailto:mail@fcarrone.com)
