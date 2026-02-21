@@ -26,13 +26,11 @@
 - [ethrex](https://github.com/lambdaclass/ethrex). Ethereum execution client in Rust, L1 and L2
 - [lambdaworks](https://github.com/lambdaclass/lambdaworks). SNARK and STARK prover implementations
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm). Rust implementation of the Cairo VM
+- [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
+- [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 - [lambdaclass_hacking_learning_path](https://github.com/lambdaclass/lambdaclass_hacking_learning_path). Hacking learning path handbook
 - [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
-- [starknet_in_rust](https://github.com/lambdaclass/starknet_in_rust). Rust implementation of Starknet execution
-- [riak_core_tutorial](https://github.com/lambdaclass/riak_core_tutorial). Distributed Erlang tutorial
-- [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
-- [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 
 ## Writing
 
