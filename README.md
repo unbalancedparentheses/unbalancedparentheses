@@ -30,6 +30,7 @@
 
 ## Curated Learning Resources
 
+- [learning_luxury](https://github.com/unbalancedparentheses/learning_luxury). Philosophy, business strategy, and craft: frameworks for thinking about luxury, desire, scarcity, and quality
 - [learning_systems_and_security](https://github.com/unbalancedparentheses/learning_systems_and_security). Assembly, reverse engineering, distributed systems, compilers, cryptography, mathematics
 - [learning_economics](https://github.com/unbalancedparentheses/learning_economics). Papers and books on monetary theory, volatility, ergodicity economics, complexity
 - [learning_leptokurtic](https://github.com/unbalancedparentheses/learning_leptokurtic). Fat-tailed distributions, kurtosis, and why Gaussian models fail
