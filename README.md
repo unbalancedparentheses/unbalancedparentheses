@@ -38,7 +38,6 @@
 - [learning_data_science](https://github.com/unbalancedparentheses/learning_data_science). Data science etudes and statistical explorations
 - [learning_luxury](https://github.com/unbalancedparentheses/learning_luxury). Philosophy, business strategy, and craft: frameworks for thinking about luxury, desire, scarcity, and quality
 - [learning_leptokurtic](https://github.com/unbalancedparentheses/learning_leptokurtic). Fat-tailed distributions, kurtosis, and why Gaussian models fail
-- [learning_ergodicity_economics](https://github.com/unbalancedparentheses/learning_ergodicity_economics). Ergodicity Economics lecture notes by Ole Peters
 
 ## Connect
 
