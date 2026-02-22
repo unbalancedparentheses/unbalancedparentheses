@@ -13,6 +13,9 @@
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 - [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
+
+## Personal Projects
+
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
 
 ## Books & Learning Paths
