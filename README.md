@@ -17,6 +17,7 @@
 ## Personal Projects
 
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
+- [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
 
 ## Books & Learning Paths
 
