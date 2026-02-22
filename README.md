@@ -32,7 +32,8 @@
 
 - [the_bayes_way](https://github.com/unbalancedparentheses/the_bayes_way). Bayesian statistics and probabilistic programming
 - [learning_economics](https://github.com/unbalancedparentheses/learning_economics). Papers and books on monetary theory, volatility, ergodicity economics, complexity
-- [learning_systems_and_security](https://github.com/unbalancedparentheses/learning_systems_and_security). Assembly, reverse engineering, distributed systems, compilers, cryptography, mathematics
+- [learning_systems_and_security](https://github.com/unbalancedparentheses/learning_systems_and_security). Assembly, reverse engineering, distributed systems, compilers, cryptography
+- [learning_mathematics](https://github.com/unbalancedparentheses/learning_mathematics). Linear algebra, analysis, topology, algebra, and more
 - [learning_saas](https://github.com/unbalancedparentheses/learning_saas). Guide for building production-ready SaaS with Elixir/Phoenix and React/TS
 - [learning_nutrition_and_health](https://github.com/unbalancedparentheses/learning_nutrition_and_health). Peer-reviewed papers on fasting, supplements, and metabolic health
 - [learning_data_science](https://github.com/unbalancedparentheses/learning_data_science). Data science etudes and statistical explorations
