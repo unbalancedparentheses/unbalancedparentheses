@@ -39,6 +39,14 @@
 - [learning_data_science](https://github.com/unbalancedparentheses/learning_data_science). Data science etudes and statistical explorations
 - [learning_luxury](https://github.com/unbalancedparentheses/learning_luxury). Philosophy, business strategy, and craft: frameworks for thinking about luxury, desire, scarcity, and quality
 - [learning_leptokurtic](https://github.com/unbalancedparentheses/learning_leptokurtic). Fat-tailed distributions, kurtosis, and why Gaussian models fail
+- [learning_network_protocols](https://github.com/unbalancedparentheses/learning_network_protocols). Network protocols, RFCs, and internet infrastructure
+- [learning_programming_language_theory](https://github.com/unbalancedparentheses/learning_programming_language_theory). Type systems, semantics, parsing, and compiler design
+- [learning_game_theory](https://github.com/unbalancedparentheses/learning_game_theory). Game theory, mechanism design, and strategic interaction
+- [learning_information_theory](https://github.com/unbalancedparentheses/learning_information_theory). Entropy, coding theory, and channel capacity
+- [learning_formal_verification](https://github.com/unbalancedparentheses/learning_formal_verification). Theorem proving with Lean and specifying systems with TLA+
+- [learning_history_and_philosophy_of_science](https://github.com/unbalancedparentheses/learning_history_and_philosophy_of_science). Scientific revolutions, epistemology, and the history of ideas
+- [learning_complex_systems](https://github.com/unbalancedparentheses/learning_complex_systems). Emergence, nonlinear dynamics, power laws, and networks
+- [learning_biology](https://github.com/unbalancedparentheses/learning_biology). Molecular biology, genetics, evolution, and computational biology
 
 ## Connect
 
