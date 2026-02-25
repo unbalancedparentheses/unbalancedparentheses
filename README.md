@@ -17,6 +17,7 @@
 ## Personal Projects
 
 - [fatcrash](https://github.com/unbalancedparentheses/fatcrash). Crash detection via fat-tail statistics: LPPLS, EVT, Hill estimator, Kappa (Rust + Python/PyO3)
+- [regimeshift](https://github.com/unbalancedparentheses/regimeshift). Market regime signals: tail-risk, VRP, and liquidity/impact proxies (Rust + Python)
 - [forex-centuries](https://github.com/unbalancedparentheses/forex-centuries). Historical exchange rate data spanning centuries, for volatility research
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
 - [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
