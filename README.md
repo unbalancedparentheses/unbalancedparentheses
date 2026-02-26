@@ -12,6 +12,7 @@
 - [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 - [options_portfolio_backtester](https://github.com/lambdaclass/options_portfolio_backtester). Options trading backtester
+- [concrete](https://github.com/lambdaclass/concrete). Simple programming language for creating highly scalable, reliable, and easy to maintain systems
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
 
 ## Personal Projects
@@ -22,7 +23,6 @@
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
 - [holdco](https://github.com/unbalancedparentheses/holdco). Open source holding company management: corporate structure, assets, custody, tax, financials
 - [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
-- [concrete](https://github.com/unbalancedparentheses/concrete). Simple programming language for creating highly scalable, reliable, and easy to maintain systems
 - [DNA](https://github.com/unbalancedparentheses/DNA). Genetic health analysis pipeline
 
 ## Books & Learning Paths
