@@ -10,7 +10,6 @@
 - [lambdaworks](https://github.com/lambdaclass/lambdaworks). SNARK and STARK prover implementations
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm). Rust implementation of the Cairo VM
 - [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
-- [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
 - [options_portfolio_backtester](https://github.com/lambdaclass/options_portfolio_backtester). Options trading backtester
 - [concrete](https://github.com/lambdaclass/concrete). Simple programming language for creating highly scalable, reliable, and easy to maintain systems
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
