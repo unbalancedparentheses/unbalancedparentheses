@@ -1,8 +1,10 @@
 # Hi, I'm Federico
 
-**Buenos Aires** | Founder of [Ergodic Group](https://federicocarrone.com) | Creator of [LambdaClass](https://lambdaclass.com)
+I founded [Ergodic Group](https://ergodicgroup.com) and [LambdaClass](https://lambdaclass.com).
 
-[Ergodic Group](https://federicocarrone.com) builds companies in distributed systems, cryptography, and AI. [LambdaClass](https://lambdaclass.com) builds software that is fast and provably correct: Ethereum clients, ZK provers, and verified compilers. We focus on Rust, Erlang, and Lean.
+Ergodic Group is a permanent capital firm that builds and holds companies across software, finance, culture, and craft — from Ethereum infrastructure and ZK provers to animation studios, game development, a vineyard, and a sushi restaurant. LambdaClass is the software arm: protocol engineering, compilers, and formal verification in Rust, Erlang, and Lean.
+
+During the day I work on formal systems, proofs, and verified kernels — domains where correctness can be checked rather than argued. At night I read thinkers who say certainty is impossible. Rigor when building, ambiguity when thinking.
 
 ## Built at LambdaClass
 
