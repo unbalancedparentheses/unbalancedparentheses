@@ -2,7 +2,7 @@
 
 **Buenos Aires** | Founder of [Ergodic Group](https://federicocarrone.com) | Creator of [LambdaClass](https://lambdaclass.com)
 
-[Ergodic Group](https://federicocarrone.com) builds companies in distributed systems, cryptography, and AI. [LambdaClass](https://lambdaclass.com) builds software that is fast and provably correct: Ethereum clients, ZK provers, and verified compilers.
+[Ergodic Group](https://federicocarrone.com) builds companies in distributed systems, cryptography, and AI. [LambdaClass](https://lambdaclass.com) builds software that is fast and provably correct: Ethereum clients, ZK provers, and verified compilers. We focus on Rust, Erlang, and Lean.
 
 ## Built at LambdaClass
 
