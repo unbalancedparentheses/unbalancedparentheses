@@ -11,7 +11,7 @@
 - [cairo-vm](https://github.com/lambdaclass/cairo-vm). Rust implementation of the Cairo VM
 - [cairo_native](https://github.com/lambdaclass/cairo_native). Cairo Sierra to MLIR compiler
 - [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir
-- [options_backtester](https://github.com/lambdaclass/options_backtester). Options trading backtester
+- [options_portfolio_backtester](https://github.com/lambdaclass/options_portfolio_backtester). Options trading backtester
 - [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
 
 ## Personal Projects
@@ -22,6 +22,8 @@
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
 - [holdco](https://github.com/unbalancedparentheses/holdco). Open source holding company management: corporate structure, assets, custody, tax, financials
 - [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
+- [concrete](https://github.com/unbalancedparentheses/concrete). Simple programming language for creating highly scalable, reliable, and easy to maintain systems
+- [DNA](https://github.com/unbalancedparentheses/DNA). Genetic health analysis pipeline
 
 ## Books & Learning Paths
 
@@ -33,9 +35,14 @@
 
 ## Writing
 
+- [The Tail Hedge Debate: Spitznagel Is Right, AQR Is Answering the Wrong Question](https://federicocarrone.com/series/leptokurtic/the-tail-hedge-debate-spitznagel-is-right/)
+- [Detecting Crashes with Fat-Tail Statistics](https://federicocarrone.com/series/leptokurtic/detecting-crashes-with-fat-tail-statistics/)
+- [Nine Centuries of Exchange Rates](https://federicocarrone.com/series/leptokurtic/nine-centuries-of-exchange-rates/)
+- [The Concrete Programming Language: Systems Programming for Formal Reasoning](https://federicocarrone.com/series/concrete/the-concrete-programming-language-systems-programming-for-formal-reasoning/)
 - [Friction as Luxury: What We Lose When AI Gives Us What We Want](https://federicocarrone.com/articles/friction-as-luxury/)
-- [Is Consciousness a Network Effect?](https://federicocarrone.com/articles/consciousness-as-network-effect/)
-- [Transforming the Future with ZK Proofs, FHE and New Distributed Systems](https://federicocarrone.com/articles/transforming-the-future-with-zero-knowledge-proofs-fully-homomorphic-encryption-and-new-distributed-systems-algorithms/)
+- [China Commoditizing the Complement](https://federicocarrone.com/articles/china-commoditizing-the-complement/)
+- [Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/)
+- [Building a SaaS with Elixir/Phoenix and React](https://federicocarrone.com/articles/building-a-saas-with-elixir-phoenix-and-react/)
 
 ## Curated Learning Resources
 
@@ -56,6 +63,9 @@
 - [learning_history_and_philosophy_of_science](https://github.com/unbalancedparentheses/learning_history_and_philosophy_of_science). Scientific revolutions, epistemology, and the history of ideas
 - [learning_complex_systems](https://github.com/unbalancedparentheses/learning_complex_systems). Emergence, nonlinear dynamics, power laws, and networks
 - [learning_biology](https://github.com/unbalancedparentheses/learning_biology). Molecular biology, genetics, evolution, and computational biology
+- [learning_history_and_geopolitics](https://github.com/unbalancedparentheses/learning_history_and_geopolitics). Economic history, grand strategy, geopolitics, and the forces that shape civilizations
+- [learning_statistical_mechanics](https://github.com/unbalancedparentheses/learning_statistical_mechanics). Statistical mechanics, thermodynamics, phase transitions, and connections to information theory
+- [learning_decision_theory](https://github.com/unbalancedparentheses/learning_decision_theory). Decision theory, rationality under uncertainty, bounded rationality, and growth-optimal strategies
 
 ## Connect
 
