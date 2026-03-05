@@ -19,8 +19,7 @@ During the day I work on formal systems, proofs, and verified kernels — domain
 ## Personal Projects
 
 **Quantitative Finance**
-- [fatcrash](https://github.com/unbalancedparentheses/fatcrash). Crash detection via fat-tail statistics: LPPLS, EVT, Hill estimator, Kappa (Rust + Python/PyO3)
-- [regimeshift](https://github.com/unbalancedparentheses/regimeshift). Market regime signals: tail-risk, VRP, and liquidity/impact proxies (Rust + Python)
+- [fatcrash](https://github.com/unbalancedparentheses/fatcrash). Crash detection and market regime signals: LPPLS, EVT, Hill estimator, Kappa, VRP, liquidity, credit spreads (Rust + Python/PyO3)
 - [forex-centuries](https://github.com/unbalancedparentheses/forex-centuries). Historical exchange rate data spanning centuries, for volatility research
 - [finance_research](https://github.com/unbalancedparentheses/finance_research). Research notebooks for options backtesting, tail hedging, and multi-asset carry strategies
 **Tools**
