@@ -23,6 +23,7 @@ During the day I work on formal systems, proofs, and verified kernels — domain
 - [forex-centuries](https://github.com/unbalancedparentheses/forex-centuries). Historical exchange rate data spanning centuries, for volatility research
 - [finance_research](https://github.com/unbalancedparentheses/finance_research). Research notebooks for options backtesting, tail hedging, and multi-asset carry strategies
 **Tools**
+- [stoa](https://github.com/unbalancedparentheses/stoa). Native AI research platform: send prompts to multiple models in parallel, compare side-by-side, diff responses, track costs — Rust + GPU, no Electron
 - [holdco](https://github.com/unbalancedparentheses/holdco). Open source holding company management: corporate structure, assets, custody, tax, financials
 - [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
