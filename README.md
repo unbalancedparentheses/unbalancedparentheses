@@ -23,10 +23,10 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 - 📈 [finance_research](https://github.com/unbalancedparentheses/finance_research). Notebooks on options backtesting, tail hedging, carry strategies
 
 **Tools**
+- 📖 [readtube](https://github.com/unbalancedparentheses/readtube). Turns YouTube videos into typeset ebooks
 - 🗣️ [stoa](https://github.com/unbalancedparentheses/stoa). Send the same prompt to multiple LLMs, compare side-by-side. Native app, Rust + GPU
 - 🗄️ [llm-archive](https://github.com/unbalancedparentheses/llm-archive). Ingests all my Claude Code and Codex conversations into SQLite, strips the code, keeps the thinking. Search and analysis over months of LLM usage
 - 🏢 [holdco](https://github.com/unbalancedparentheses/holdco). Holding company management — corporate structure, assets, custody, tax
-- 📖 [readtube](https://github.com/unbalancedparentheses/readtube). Turns YouTube videos into typeset ebooks
 - 🎬 [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server, Docker Compose
 - 🧬 [DNA](https://github.com/unbalancedparentheses/DNA). Genetic health analysis pipeline
 
