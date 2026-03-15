@@ -14,7 +14,7 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 - 📊 [options_portfolio_backtester](https://github.com/lambdaclass/options_portfolio_backtester). Options backtester we use internally
 - 🧱 [concrete](https://github.com/lambdaclass/concrete). A language we're building for scalable, verifiable systems
 - 🎓 [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
-- 🪙 [stabileo](https://github.com/lambdaclass/stabileo). Stablecoin infrastructure
+- 🏗️ [stabileo](https://github.com/lambdaclass/stabileo). Open-source 2D & 3D structural analysis in the browser — Direct Stiffness Method, real-time solving, no installation
 
 ## Personal Projects
 
