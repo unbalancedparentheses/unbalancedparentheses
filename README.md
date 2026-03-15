@@ -4,7 +4,7 @@ I founded [LambdaClass](https://lambdaclass.com) and [Ergodic Group](https://erg
 
 I spend most of my time on formal systems, proofs, and verified kernels. I also read too much about uncertainty, fat tails, and the limits of knowledge. The two interests contradict each other and I'm fine with that.
 
-Currently: building [Concrete](https://github.com/lambdaclass/concrete), a language designed so programs can be proved correct in Lean. Also working on [ethrex](https://github.com/lambdaclass/ethrex), [lambdaworks](https://github.com/lambdaclass/lambdaworks), running crash detection signals on centuries of FX data, and building an [options backtester](https://github.com/lambdaclass/options_portfolio_backtester).
+Currently: building [stabileo](https://github.com/lambdaclass/stabileo) (structural analysis in the browser) and [Concrete](https://github.com/lambdaclass/concrete), a language designed so programs can be proved correct in Lean. Also working on [ethrex](https://github.com/lambdaclass/ethrex), [lambdaworks](https://github.com/lambdaclass/lambdaworks), running crash detection signals on centuries of FX data, and building an [options backtester](https://github.com/lambdaclass/options_portfolio_backtester).
 
 ## Built at LambdaClass
 
