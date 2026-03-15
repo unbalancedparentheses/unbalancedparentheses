@@ -31,13 +31,9 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 - 🧬 [DNA](https://github.com/unbalancedparentheses/DNA). Genetic health analysis pipeline
 - 🗣️ [stoa](https://github.com/unbalancedparentheses/stoa). Send the same prompt to multiple LLMs, compare side-by-side. Native app, Rust + GPU
 
-## Books & Learning Paths
+## Book
 
 - 📐 [Data Science in Julia for Hackers](https://github.com/unbalancedparentheses/data_science_in_julia_for_hackers). Open book on applied data science
-- 🔑 [Cryptography in Rust for Hackers](https://github.com/unbalancedparentheses/cryptography_in_rust_for_hackers). Hands-on crypto implementations
-- 🤝 [Distributed Consensus in Rust for Hackers](https://github.com/unbalancedparentheses/distributed_consensus_in_rust_for_hackers). Consensus protocols from scratch
-- 🐚 [Spawned Shelter](https://github.com/unbalancedparentheses/spawnedshelter). Erlang & Elixir learning path
-- 🔏 [Practical Cryptography & Distributed Ledgers](https://github.com/unbalancedparentheses/practical_cryptography_and_distributed_ledgers). ZK proofs, FHE, consensus
 
 ## Writing
 
