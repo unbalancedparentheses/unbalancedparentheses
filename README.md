@@ -41,37 +41,11 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 
 ## Writing
 
-**Leptokurtic** — fat tails, crashes, and why normal distributions lie
 - ✍️ [At the Core of Finance Lies Geometry. In the End, It's All Jensen's Inequality.](https://federicocarrone.com/series/leptokurtic/at-the-core-of-finance-lies-geometry-in-the-end-its-all-jensens-inequality/)
 - ✍️ [The Tail Hedge Debate: Spitznagel Is Right, AQR Is Answering the Wrong Question](https://federicocarrone.com/series/leptokurtic/the-tail-hedge-debate-spitznagel-is-right/)
-- ✍️ [Detecting Crashes with Fat-Tail Statistics](https://federicocarrone.com/series/leptokurtic/detecting-crashes-with-fat-tail-statistics/)
-- ✍️ [Twenty Centuries of Financial Data: What 240 Countries and 2,000 Years Reveal](https://federicocarrone.com/series/leptokurtic/twenty-centuries-of-financial-data/)
-
-**Concrete** — building a language for scalable, verifiable systems
-- ✍️ [The Concrete Programming Language: Systems Programming for Formal Reasoning](https://federicocarrone.com/series/concrete/the-concrete-programming-language-systems-programming-for-formal-reasoning/)
-- ✍️ [The Rust Effects Debate and Concrete's Case for a Smaller Language](https://federicocarrone.com/series/concrete/rusts-grand-vision-and-concretes-answer/)
-- ✍️ [The AI Training Data Trap for Programming Languages Has an Exit](https://federicocarrone.com/series/concrete/the-ai-training-data-trap-for-programming-languages-has-an-exit/)
-- ✍️ [Can I Prove Concrete Programs in Lean?](https://federicocarrone.com/series/concrete/proving-systems-code-in-lean/)
-
-**Les Circuits Longs** — permanence, culture, and what AI changes
-- ✍️ [Notes on Permanence, Time, and Ergodicity](https://federicocarrone.com/series/les-circuits-longs/notes-on-culture-infrastructure-time-and-ergodicity/)
-- ✍️ [The Death of the Inner Self](https://federicocarrone.com/series/les-circuits-longs/the-death-of-the-inner-self/)
-- ✍️ [Unprepared for What's Coming](https://federicocarrone.com/series/les-circuits-longs/unprepared/)
 - ✍️ [Friction as Luxury: What We Lose When AI Gives Us What We Want](https://federicocarrone.com/series/les-circuits-longs/friction-as-luxury/)
-- ✍️ [Legibility Kills What It Measures](https://federicocarrone.com/series/les-circuits-longs/legibility-kills-what-it-measures/)
-- ✍️ [Dissolution Without Construction](https://federicocarrone.com/series/les-circuits-longs/dissolution-without-construction/)
-
-**Ethereum** — why it matters
-- ✍️ [The Missing Institution of the Internet](https://federicocarrone.com/series/ethereum/the-missing-institution-of-the-internet/)
-- ✍️ [The New Financial Backend of the World](https://federicocarrone.com/series/ethereum/the-new-financial-backend-of-the-world/)
-
-**Standalone**
-- ✍️ [Fede's Guide to a Healthier Life](https://federicocarrone.com/articles/health-guide/)
-- ✍️ [China Is Trying to Commoditize the Complement](https://federicocarrone.com/articles/china-commoditizing-the-complement/)
-- ✍️ [Building a SaaS with Elixir/Phoenix and React](https://federicocarrone.com/articles/building-a-saas-with-elixir-phoenix-and-react/)
-- ✍️ [Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/)
-- ✍️ [Crypto Doctrine](https://federicocarrone.com/articles/crypto-doctrine/)
-- ✍️ [Zero-Knowledge Proofs and the Economics of Verification](https://federicocarrone.com/articles/transforming-the-future-with-zero-knowledge-proofs-fully-homomorphic-encryption-and-new-distributed-systems-algorithms/)
+- ✍️ [Can I Prove Concrete Programs in Lean?](https://federicocarrone.com/series/concrete/proving-systems-code-in-lean/)
+- ✍️ [The Death of the Inner Self](https://federicocarrone.com/series/les-circuits-longs/the-death-of-the-inner-self/)
 
 ## Curated Learning Resources
 
