@@ -24,6 +24,7 @@ During the day I work on formal systems, proofs, and verified kernels — domain
 - [finance_research](https://github.com/unbalancedparentheses/finance_research). Research notebooks for options backtesting, tail hedging, and multi-asset carry strategies
 **Tools**
 - [stoa](https://github.com/unbalancedparentheses/stoa). Native AI research platform: send prompts to multiple models in parallel, compare side-by-side, diff responses, track costs — Rust + GPU, no Electron
+- [llm-archive](https://github.com/unbalancedparentheses/llm-archive). Ingest, search, and analyze conversations from Claude Code and Codex CLI — strips code, keeps the thinking
 - [holdco](https://github.com/unbalancedparentheses/holdco). Open source holding company management: corporate structure, assets, custody, tax, financials
 - [readtube](https://github.com/unbalancedparentheses/readtube). Turn YouTube videos into beautifully typeset ebooks using Claude Code
 - [media-server](https://github.com/unbalancedparentheses/media-server). Self-hosted media server stack with Docker Compose
