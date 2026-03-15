@@ -4,6 +4,8 @@ I founded [LambdaClass](https://lambdaclass.com) and [Ergodic Group](https://erg
 
 I spend most of my time on formal systems, proofs, and verified kernels. I also read too much about uncertainty, fat tails, and the limits of knowledge. The two interests contradict each other and I'm fine with that.
 
+Currently: building [Concrete](https://github.com/lambdaclass/concrete), a language designed so programs can be proved correct in Lean. Also running crash detection signals on centuries of FX data.
+
 ## Built at LambdaClass
 
 - ⛓️ [ethrex](https://github.com/lambdaclass/ethrex). Ethereum execution client in Rust, both L1 and L2
