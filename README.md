@@ -7,6 +7,7 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 ## Built at LambdaClass
 
 - ⛓️ [ethrex](https://github.com/lambdaclass/ethrex). Ethereum execution client in Rust, both L1 and L2
+- 🔮 [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir, built on the BEAM for fault tolerance
 - 🔐 [lambdaworks](https://github.com/lambdaclass/lambdaworks). Our SNARK/STARK prover library
 - 🏛️ [cairo-vm](https://github.com/lambdaclass/cairo-vm). Cairo VM reimplemented in Rust
 - ⚙️ [cairo_native](https://github.com/lambdaclass/cairo_native). Compiles Cairo Sierra down to MLIR
@@ -47,6 +48,36 @@ I spend most of my time on formal systems, proofs, and verified kernels. I also 
 - ✍️ [China Commoditizing the Complement](https://federicocarrone.com/articles/china-commoditizing-the-complement/)
 - ✍️ [Type Systems: From Generics to Dependent Types](https://federicocarrone.com/articles/type-systems/)
 - ✍️ [Building a SaaS with Elixir/Phoenix and React](https://federicocarrone.com/articles/building-a-saas-with-elixir-phoenix-and-react/)
+
+## Curated Learning Resources
+
+**Math & Statistics**
+- 🎲 [the_bayes_way](https://github.com/unbalancedparentheses/the_bayes_way). Bayesian statistics and probabilistic programming
+- ➕ [learning_mathematics](https://github.com/unbalancedparentheses/learning_mathematics). Linear algebra, analysis, topology, algebra, and more
+- 📉 [learning_leptokurtic](https://github.com/unbalancedparentheses/learning_leptokurtic). Fat tails, kurtosis, and why Gaussian models break
+- 🔬 [learning_data_science](https://github.com/unbalancedparentheses/learning_data_science). Data science etudes and statistical explorations
+- 🌡️ [learning_statistical_mechanics](https://github.com/unbalancedparentheses/learning_statistical_mechanics). Stat mech, thermodynamics, phase transitions, and connections to information theory
+- 📡 [learning_information_theory](https://github.com/unbalancedparentheses/learning_information_theory). Entropy, coding theory, channel capacity
+
+**CS & Engineering**
+- 🛡️ [learning_systems_and_security](https://github.com/unbalancedparentheses/learning_systems_and_security). Assembly, reverse engineering, distributed systems, compilers, crypto
+- 🧮 [learning_programming_language_theory](https://github.com/unbalancedparentheses/learning_programming_language_theory). Type systems, semantics, parsing, compiler design
+- ✅ [learning_formal_verification](https://github.com/unbalancedparentheses/learning_formal_verification). Theorem proving with Lean, specifying systems with TLA+
+- 🌐 [learning_network_protocols](https://github.com/unbalancedparentheses/learning_network_protocols). Network protocols, RFCs, internet infrastructure
+- 🚀 [learning_saas](https://github.com/unbalancedparentheses/learning_saas). Building production SaaS with Elixir/Phoenix and React/TS
+
+**Economics & Strategy**
+- 💰 [learning_economics](https://github.com/unbalancedparentheses/learning_economics). Monetary theory, volatility, ergodicity economics, complexity
+- ♟️ [learning_game_theory](https://github.com/unbalancedparentheses/learning_game_theory). Game theory, mechanism design, strategic interaction
+- 🎯 [learning_decision_theory](https://github.com/unbalancedparentheses/learning_decision_theory). Decision theory, bounded rationality, growth-optimal strategies
+- 🌍 [learning_history_and_geopolitics](https://github.com/unbalancedparentheses/learning_history_and_geopolitics). Economic history, grand strategy, geopolitics
+
+**Science & Ideas**
+- 🕸️ [learning_complex_systems](https://github.com/unbalancedparentheses/learning_complex_systems). Emergence, nonlinear dynamics, power laws, networks
+- 🧫 [learning_biology](https://github.com/unbalancedparentheses/learning_biology). Molecular biology, genetics, evolution, computational biology
+- 🔭 [learning_history_and_philosophy_of_science](https://github.com/unbalancedparentheses/learning_history_and_philosophy_of_science). Scientific revolutions, epistemology, history of ideas
+- 🥗 [learning_nutrition_and_health](https://github.com/unbalancedparentheses/learning_nutrition_and_health). Papers on fasting, supplements, metabolic health
+- 💎 [learning_luxury](https://github.com/unbalancedparentheses/learning_luxury). Luxury, desire, scarcity, and quality — philosophy and business strategy
 
 ## Connect
 
