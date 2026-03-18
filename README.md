@@ -1,6 +1,6 @@
 # Hi, I'm Federico
 
-I founded [LambdaClass](https://lambdaclass.com) and [Ergodic Group](https://ergodicgroup.com). LambdaClass does protocol engineering, compilers, and formal verification — mostly Rust, Erlang, and Lean. Ergodic Group is the holding company on top: we run software companies, a quant finance operation, an animation studio, a vineyard, and a sushi restaurant, among other things.
+I founded [LambdaClass](https://lambdaclass.com) and [Ergodic Group](https://ergodicgroup.com). LambdaClass does protocol engineering, compilers, and formal verification, mostly Rust, Erlang, and Lean. Ergodic Group is the holding company on top: we run software companies, a quant finance operation, an animation studio, a vineyard, and a sushi restaurant, among other things.
 
 I spend most of my time on formal systems, proofs, and verified kernels. I also read too much about uncertainty, fat tails, and the limits of knowledge. The two interests contradict each other and I'm fine with that.
 
