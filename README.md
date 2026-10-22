@@ -13,7 +13,7 @@ Currently: building [stabileo](https://github.com/lambdaclass/stabileo) (structu
 - 🧱 [concrete](https://github.com/lambdaclass/concrete). A language we're building for scalable, verifiable systems
 - 📊 [options_portfolio_backtester](https://github.com/lambdaclass/options_portfolio_backtester). Options backtester we use internally
 - ⚙️ [cairo_native](https://github.com/lambdaclass/cairo_native). Compiles Cairo Sierra down to MLIR
-- 🏛️ [cairo-vm](https://github.com/lambdaclass/cairo-vm). Cairo VM reimplemented in Rust
+- 🏛️ [cairo-vm](https://github.com/starkware-libs/cairo-vm). Cairo VM reimplemented in Rust, now maintained by StarkWare
 - 🔮 [lambda_ethereum_consensus](https://github.com/lambdaclass/lambda_ethereum_consensus). Ethereum consensus client in Elixir, built on the BEAM for fault tolerance
 - 🏗️ [stabileo](https://github.com/lambdaclass/stabileo). Open-source 2D & 3D structural analysis in the browser. Direct Stiffness Method, real-time solving, no installation
 - 🎓 [erlings](https://github.com/lambdaclass/erlings). Erlang exercises, rustlings-style
