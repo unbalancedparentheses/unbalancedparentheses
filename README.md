@@ -20,6 +20,10 @@ Currently: building [stabileo](https://github.com/lambdaclass/stabileo) (structu
 
 ## Personal Projects
 
+**Formal Verification**
+- 📉 [lean-extremevaluetheory](https://github.com/unbalancedparentheses/lean-extremevaluetheory). Extreme value theory and heavy-tailed probability in Lean 4: Fisher–Tippett–Gnedenko, regular variation, Karamata, Breiman. ~94k lines, 3,900 theorems, no `sorry`
+- 🛠️ [lean-compiler-backend](https://github.com/unbalancedparentheses/lean-compiler-backend). Native compiler backend written in Lean 4, starting as a QBE 1.3 port. Builds and runs real C programs through cproc
+
 **Quantitative Finance**
 - 💥 [fatcrash](https://github.com/unbalancedparentheses/fatcrash). Crash detection using LPPLS, EVT, Hill estimator, VRP, and a bunch of other signals. Rust core with Python/PyO3 bindings
 - 💱 [forex-centuries](https://github.com/unbalancedparentheses/forex-centuries). Exchange rate data going back centuries. Useful for volatility research when you don't trust short samples
